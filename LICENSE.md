@@ -1,4 +1,4 @@
-# 
+# Exclusivo 7-Zip scripts para Mac OS | VIP 7-Zip scripts para PC Windows. Com priorizacao de processos e analise de espaco em disco — otimizado para máximo desempenho em cada plataforma.
 
 
 
